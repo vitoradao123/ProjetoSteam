@@ -1,0 +1,44 @@
+.carrinho {
+  background-color: #2e2e2e;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.tituloproduto{
+color: white;
+margin-bottom: 1rem;
+}
+
+.botoes button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  background-color: #1e1e1e;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.quantidade{
+    color: white;
+    padding: 1rem;
+}
+
+.mensagem {
+  margin-top: 15px;
+  color: rgb(17, 212, 17);
+  font-weight: bold;
+}
+
+.produto-img {
+  width: 15rem;        
+  height: auto;        
+  margin-bottom: 10px; 
+  border-radius: 8px;  
+  object-fit: cover;   
+}
+

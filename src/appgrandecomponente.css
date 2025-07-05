@@ -1,0 +1,8 @@
+.produtos-container {
+  padding: 4rem;
+  display: flex;               /* Ativa o flexbox */
+  justify-content: center;     /* Centraliza horizontalmente */
+  gap: 20px;                   /* Espaço entre os produtos */
+  flex-wrap: wrap;             /* Faz os produtos quebrarem linha em telas pequenas */
+  margin-top: 20px;            /* Espaço em cima */
+}
